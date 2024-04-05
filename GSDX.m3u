@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-SUB-URL https://mirror.ghproxy.com/https://raw.githubusercontent.com/wowmytimes/IPTV/0ba97c34ae056201846dcbd4b494ac4b64f546dd/GSDX.m3u
-#EXTM3U
-#EXT-X-SUB-URL https://mirror.ghproxy.com/https://github.com/wowmytimes/IPTV/blob/main/GSDX.m3u
+
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 http://www.pr666.site:4040/udp/239.255.30.101:8231
@@ -39,6 +38,7 @@ http://www.pr666.site:4040/udp/239.255.30.68:8231
 http://www.pr666.site:4040/udp/239.255.30.88:8231
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://www.pr666.site:4040/udp/239.255.30.96:8231
+
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
 http://www.pr666.site:4040/udp/239.255.30.136:8231
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
@@ -91,16 +91,19 @@ http://www.pr666.site:4040/udp/239.255.29.4:8231
 http://www.pr666.site:4040/udp/239.255.29.5:8231
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png",中国教育1台
 http://www.pr666.site:4040/udp/239.255.30.90:8231
+
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
 http://www.pr666.site:4040/udp/239.255.30.123:8231
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
 http://www.pr666.site:4040/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://www.pr666.site:4040/udp/239.255.30.70:8231
+
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
 http://www.pr666.site:4040/udp/239.255.29.45:8231
 #EXTINF:-1 tvg-name="体育" tvg-logo="https://live.fanmingming.com/tv/体育.png",体育
 http://www.pr666.site:4040/udp/239.255.29.31:8231
+
 #EXTINF:-1 tvg-name="金塔" tvg-logo="https://live.fanmingming.com/tv/金塔.png",金塔
 http://www.pr666.site:4040/udp/239.255.30.224:8231
 #EXTINF:-1 tvg-name="酒钢电视" tvg-logo="https://live.fanmingming.com/tv/酒钢电视.png",酒钢电视
@@ -109,6 +112,7 @@ http://www.pr666.site:4040/udp/239.255.30.94:8231
 http://www.pr666.site:4040/udp/239.255.29.35:8231
 #EXTINF:-1 tvg-name="嘉峪关综合" tvg-logo="https://live.fanmingming.com/tv/嘉峪关综合.png",嘉峪关综合
 http://www.pr666.site:4040/udp/239.255.29.36:8231
+
 #EXTINF:-1 tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/戏曲精选.png",戏曲精选
 http://www.pr666.site:4040/udp/239.255.30.118:8231
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
@@ -143,6 +147,7 @@ http://www.pr666.site:4040/udp/239.255.29.25:8231
 http://www.pr666.site:4040/udp/239.255.30.149:8231
 #EXTINF:-1 tvg-name="羽毛球精品赛事" tvg-logo="https://live.fanmingming.com/tv/羽毛球精品赛事.png",羽毛球精品赛事
 http://www.pr666.site:4040/udp/239.255.29.31:8231
+
 #EXTINF:-1 tvg-name="IPTV5+" tvg-logo="https://live.fanmingming.com/tv/IPTV5+.png",IPTV5+
 http://www.pr666.site:4040/udp/239.255.30.115:8231
 #EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://live.fanmingming.com/tv/甘肃文化影视.png",甘肃文化影视
@@ -163,6 +168,7 @@ http://www.pr666.site:4040/udp/239.255.30.107:8231
 http://www.pr666.site:4040/udp/239.255.30.108:8231
 #EXTINF:-1 tvg-name="临夏经济" tvg-logo="https://live.fanmingming.com/tv/临夏经济.png",临夏经济
 http://www.pr666.site:4040/udp/239.255.30.106:8231
+
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓
 http://www.pr666.site:4040/udp/239.255.29.26:8231
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿
@@ -181,6 +187,7 @@ http://www.pr666.site:4040/udp/239.255.29.41:8231
 http://www.pr666.site:4040/udp/239.255.29.16:8231
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png",哈哈炫动
 http://www.pr666.site:4040/udp/239.255.29.37:8231
+
 #EXTINF:-1 tvg-name="Bestv" tvg-logo="https://live.fanmingming.com/tv/Bestv.png",Bestv
 http://www.pr666.site:4040/udp/239.255.30.100:8231
 #EXTINF:-1 tvg-name="Bestv" tvg-logo="https://live.fanmingming.com/tv/Bestv.png",Bestv
